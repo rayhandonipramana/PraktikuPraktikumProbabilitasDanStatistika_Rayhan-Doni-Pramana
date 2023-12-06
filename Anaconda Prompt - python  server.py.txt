@@ -1,0 +1,18 @@
+
+(base) C:\Users\User>D:
+
+(base) D:\>cd python2
+
+(base) D:\Python2>python server.py
+Host: localhost
+Port: 0001
+New connection at ID 0 ('127.0.0.1', 50394)
+New connection at ID 1 ('127.0.0.1', 50396)
+ID 0: Halo
+ID 1: Apa kabar
+ID 1: Saya baik
+ID 1: Mau makan apa sekarang ?
+ID 0: Indomie aja
+ID 1: git clone https://github.com/ray
+ID 1: handonipramana/PraktikumJaringan
+ID 1: Komputer_Rayhan-Doni-Pramana.git
